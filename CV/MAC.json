@@ -1,0 +1,14 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Álvaro",
+      "surnames": "Cuesta Viñolo",
+      "description": "introduction"
+    }
+  }
+}
